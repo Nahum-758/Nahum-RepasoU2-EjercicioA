@@ -4,4 +4,5 @@
 * @author 13 de noviembre de 2026
 */
 
-[Guía de Laboratorio Colas en Java.pdf](https://github.com/user-attachments/files/34834407/Guia.de.Laboratorio.Colas.en.Java.pdf)
+[Unidad_2_Estructuras_de_Datos_Basicas_en_Java.pdf](https://github.com/user-attachments/files/35005335/Unidad_2_Estructuras_de_Datos_Basicas_en_Java.pdf)
+
